@@ -77,6 +77,8 @@
             {
                 Console.WriteLine(num);
             }
+            Console.WriteLine();
+            Console.ReadKey();
 
         }
     }
